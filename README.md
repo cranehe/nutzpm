@@ -10,5 +10,11 @@ A j2ee project base on nutz framework,includes nutz framework、bui web framewor
 #### Druid数据库连接池组件
 #### Quartz定时任务组件
 
-
+#### 组织机构管理
 ![](https://github.com/cranehe/nutzpm/blob/master/img/group.jpg)
+#### 角色管理
+![](https://github.com/cranehe/nutzpm/blob/master/img/role.jpg)
+#### 权限管理
+![](https://github.com/cranehe/nutzpm/blob/master/img/permission.jpg)
+#### 资源管理
+![](https://github.com/cranehe/nutzpm/blob/master/img/resource.jpg)
