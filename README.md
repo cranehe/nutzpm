@@ -9,3 +9,6 @@ A j2ee project base on nutz framework,includes nutz framework、bui web framewor
 #### Freemarker模板引擎
 #### Druid数据库连接池组件
 #### Quartz定时任务组件
+
+
+![](https://github.com/cranehe/nutzpm/blob/master/img/group.jpg)
